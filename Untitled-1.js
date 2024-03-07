@@ -1,18 +1,6 @@
-//P
-
 // Exercicio 1
 
-let indice = 13
-let soma = 0
-let k = 0
-
-for (k; k < indice; k++) {
-    k += 1
-    soma += k
-    return soma
-}
-console.log(soma)
-
+O RESULTADO DA VARIAVEL SOMA = 49;
 
 // Exercicio 2
 
